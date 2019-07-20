@@ -61,6 +61,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\activateitem.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\script\brake_light.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\script\on_off_light.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\script\OpenElement.cs" />
@@ -92,6 +93,7 @@
     <Compile Include="Assets\Cartoon SportCar B01\Standard Assets\script\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\Standard Assets\script\WheelEffects.cs" />
     <Compile Include="Assets\changepos.cs" />
+    <Compile Include="Assets\destrblood.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -225,10 +227,13 @@
     <Compile Include="Assets\GoogleVR\Scripts\Utilities\Internal\SuppressMemoryAllocationErrorAttribute.cs" />
     <Compile Include="Assets\GoogleVR\Scripts\Video\GvrVideoPlayerTexture.cs" />
     <Compile Include="Assets\gvrTel.cs" />
+    <Compile Include="Assets\LoadScene.cs" />
+    <Compile Include="Assets\ochagsagas.cs" />
     <Compile Include="Assets\Scripts\BodyAnimator.cs" />
     <Compile Include="Assets\Scripts\MagnetSensor.cs" />
     <Compile Include="Assets\Scripts\someScrp.cs" />
     <Compile Include="Assets\SendSMS.cs" />
+    <Compile Include="Assets\vsriv.cs" />
     <None Include="Assets\EffectExamples\Shared\Shaders\SurfaceShader_VC.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUIOverlayFont.shader" />
     <None Include="Assets\Cartoon SportCar B01\Standard Assets\divers\DepthOfFieldScatter.shader" />

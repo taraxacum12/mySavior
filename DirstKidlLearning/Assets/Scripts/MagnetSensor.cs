@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+using UnityEngine.XR;
 
 public class MagnetSensor : MonoBehaviour
 {
@@ -20,8 +20,9 @@ public class MagnetSensor : MonoBehaviour
     {
         _sensorData = new List<Vector3>(WINDOW_SIZE);
         _offsets = new float[SEGMENT_SIZE];
+        UnityEngine.XR.XRSettings.LoadDeviceByName("Cardboard");
     }
-
+   
     void OnEnable()
     {
         _sensorData.Clear();
