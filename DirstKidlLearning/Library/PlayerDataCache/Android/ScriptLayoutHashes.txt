@@ -1,9 +1,8 @@
 Android
 PlayerPath?
-C:/Users/Дмитрий/Desktop/firstkid.apk
+C:/Users/Никита/Desktop/test.apk
 SceneListBegin?
-Assets/scene1.unity
-Assets/SampleScene.unity
+Assets/UIScene.unity
 SceneListEnd?
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 c5d466bec0f77b2e519c677e4e85de44 Assembly-CSharp.dll:.GvrDropdown
@@ -246,3 +245,5 @@ e241599c091a039de89f5e0a1c125183 Assembly-CSharp.dll:.GvrControllerReticleVisual
 486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.GvrXREventsSubscriber
 5c887c78dd8476e1e5d5e0f9feb1e5e7 Assembly-CSharp.dll:GoogleVR.VideoDemo.AutoPlayVideo
 2aef5309c1dc4ef0a59af937abb91e38 Assembly-CSharp.dll:GoogleVR.Beta.GvrBetaControllerVisualMulti
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.LoadScene
+486cd95c82d8305219c352c06b776e1f Assembly-CSharp.dll:.ShakingAnalyzer
