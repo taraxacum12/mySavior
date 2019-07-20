@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 111
+  controlID: 34
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -209,7 +209,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 112
+  controlID: 35
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -233,7 +233,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 113
+  controlID: 36
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -323,20 +323,20 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Cartoon SportCar B01/script
+    - Assets
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Cartoon SportCar B01/script
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: D:\sed\gg\mySavior\DirstKidlLearning
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 2e300000
-    m_LastClickedID: 12334
-    m_ExpandedIDs: 00000000b82b00006a33000000ca9a3b
+    m_SelectedIDs: 94360000
+    m_LastClickedID: 13972
+    m_ExpandedIDs: 00000000943600001c40000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -364,7 +364,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b82b0000
+    m_ExpandedIDs: 00000000943600001c400000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -480,9 +480,9 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d6f9ffff
-    m_LastClickedID: -1578
-    m_ExpandedIDs: 24faffffb4faffffbefaffffe4fbffff00000000
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 801dfeff169fffffa69fffffa89fffffb09fffffd6a0ffff000000009a420000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -532,14 +532,14 @@ MonoBehaviour:
     height: 552
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneLighting: 1
-  lastFramingTime: 228.30755284421645
+  lastFramingTime: 838.0238032547394
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -2.4738405, y: -0.7113688, z: 0.103901744}
+    m_Target: {x: -2.3166504, y: 0.10559569, z: 0.020347223}
     speed: 2
-    m_Value: {x: -2.4738405, y: -0.7113688, z: 0.103901744}
+    m_Value: {x: -2.3166504, y: 0.10559569, z: 0.020347223}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -567,13 +567,13 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: 0.1466161, y: 0.77943283, z: -0.19844884, w: 0.5758526}
+    m_Target: {x: -0.14427187, y: 0.6009761, z: -0.11141569, w: -0.778203}
     speed: 2
-    m_Value: {x: 0.14661612, y: 0.7794329, z: -0.19844885, w: 0.57585263}
+    m_Value: {x: -0.14427187, y: 0.6009761, z: -0.11141569, w: -0.778203}
   m_Size:
-    m_Target: 3.2844431
+    m_Target: 0.40832078
     speed: 2
-    m_Value: 3.2844431
+    m_Value: 0.40832078
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -643,7 +643,7 @@ MonoBehaviour:
       y: 17
       width: 1148
       height: 535
-    m_Scale: {x: 0.49537036, y: 0.49537036}
+    m_Scale: {x: 1, y: 1}
     m_Translation: {x: 574, y: 267.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -651,12 +651,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -1158.729
-      y: -540
-      width: 2317.458
-      height: 1080
+      x: -574
+      y: -267.5
+      width: 1148
+      height: 535
     m_MinimalGUI: 1
-  m_defaultScale: 0.49537036
+  m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1148, y: 552}

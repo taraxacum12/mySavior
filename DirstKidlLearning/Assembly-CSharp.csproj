@@ -91,6 +91,7 @@
     <Compile Include="Assets\Cartoon SportCar B01\Standard Assets\script\SkidTrail.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\Standard Assets\script\VignetteAndChromaticAberration.cs" />
     <Compile Include="Assets\Cartoon SportCar B01\Standard Assets\script\WheelEffects.cs" />
+    <Compile Include="Assets\changepos.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\DecalDestroyer.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\ExtinguishableFire.cs" />
     <Compile Include="Assets\EffectExamples\Shared\Scripts\GunAim.cs" />
@@ -234,6 +235,7 @@
     <None Include="Assets\Cartoon SportCar B01\Standard Assets\divers\DepthOfFieldDX11.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrAdditiveOverlay.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrController.shader" />
+    <None Include="Assets\SurvivalProps\ReadMe.txt" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlay.shader" />
     <None Include="Assets\GoogleVR\Beta\Shaders\GvrSeeThroughUI.shader" />
     <None Include="Assets\GoogleVR\Shaders\GvrUnlitTransparentOverlayColor.shader" />

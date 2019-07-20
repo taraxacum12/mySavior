@@ -24,6 +24,11 @@ public class gvrTel : MonoBehaviour {
         {
             if (Input.GetButtonDown("Fire1") && hit.transform.gameObject.tag == "Ground")
             teleportPlayer(hit.point);
+
+            MagnetSensor.OnCardboardTrigger += () => {
+                if (hit.transform.gameObject.tag == "Ground")
+                    teleportPlayer(hit.point);
+            };
         }
 	}
 
