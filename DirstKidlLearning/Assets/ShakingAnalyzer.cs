@@ -6,7 +6,7 @@ public class ShakingAnalyzer : MonoBehaviour
 {
     private float lastShakeTime = -1f;
     private float startShakeTime = -1f;
-
+    public GameObject go;
 
     private static float delay = 5f;
     private static float accelerometerUpdateInterval = 1.0f / 60.0f;
@@ -24,6 +24,7 @@ public class ShakingAnalyzer : MonoBehaviour
         Debug.Log("[Shake] IT'S WORK!!!");
         shakeDetectionThreshold *= shakeDetectionThreshold;
         lowPassValue = Input.acceleration;
+        
     }
 
     // Update is called once per frame
@@ -46,7 +47,7 @@ public class ShakingAnalyzer : MonoBehaviour
             Debug.Log("[Shake] IT'S WORK!!!");
             startShakeTime = -1;
             GameObject.Find("MainPage").SetActive(false);
-            GameObject.Find("FirstExtrPage").SetActive(true);
+           go.SetActive(true);
         }
 
         lastShakeTime = Time.time;
