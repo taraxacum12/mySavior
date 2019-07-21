@@ -152,7 +152,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.Company.FirstKidLearning
+    Android: com.art.FirstKidLearning
   buildNumber: {}
   AndroidBundleVersionCode: 1
   AndroidMinSdkVersion: 19
@@ -747,9 +747,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: abc99adb-ac4f-4fa5-89ef-74a813de1df5
+  cloudProjectId: 5d9cf96e-c4eb-4c92-8a85-1056fbeb90ec
   projectName: DirstKidlLearning
-  organizationId: solopekindmitriii
+  organizationId: artyom_d
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
